@@ -4,6 +4,5 @@ hello word
 print("hello word")
 
 
-word hello
-6666
+word hell
 88888
